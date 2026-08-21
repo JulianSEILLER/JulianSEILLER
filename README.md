@@ -34,11 +34,11 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionn�
 
 ### 🚀 Projets Principaux
 
-* **[Digipad Downloader](https://github.com/JulianSEILLER)** 📥
+* **[Digipad Downloader](https://github.com/JulianSEILLER/METTRE_LE_LIEN_DU_REPO_ICI)** 📥
   * Application web locale automatisant le scraping et le téléchargement de données sécurisées.
   * *Stack : Python (Flask), Selenium, Multi-threading, TailwindCSS.*
-* **Gestionnaire de Cartes Pokémon (Bêta)** 🃏
-  * Application web de gestion de collection (TCG) développée en équipe, avec l'intégration d'outils de programmation assistée par IA.
+* **[Monolith — Prix des cartes Pokémon et gestion de collection](REMPLACEZ_CE_TEXTE_PAR_VOTRE_LIEN_URL_BETA)** 🃏
+  * Application web de gestion de collection (TCG) développée en équipe, avec l'intégration d'outils de programmation assistée par IA. *(En version Bêta)*
 
 ---
 
