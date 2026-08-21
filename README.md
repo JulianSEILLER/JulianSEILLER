@@ -26,9 +26,9 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionn�
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-* **Architecture & Cloud :** MVC, Repository Pattern, MinIO (Stockage Cloud S3)
+* **Architecture & Cloud :** MVC, Repository Pattern, UML (Visual Paradigm), MinIO (Stockage Cloud S3)
 * **Web & UI :** HTML5, CSS3, Bootstrap, TailwindCSS, JavaFX, Figma
-* **Concepts & Outils :** POO, Tests Unitaires, Agile/Scrum, Git/GitLab, Dév assisté par IA (LLMs)
+* **Concepts & Outils :** POO, Scripting (PowerShell/Bash), Tests Unitaires, Agile/Scrum, Git/GitLab, Dév assisté par IA (LLMs)
 
 ---
 
