@@ -53,15 +53,6 @@ Bienvenue sur mon profil GitHub ! Je suis un étudiant en informatique passionn�
 
 ---
 
-### 📈 Statistiques GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianSEILLER&show_icons=true&theme=radical&locale=fr" alt="Statistiques GitHub de Julian" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulianSEILLER&theme=radical" alt="GitHub streak de Julian" />
-</p>
-
----
-
 ### 📫 Contactez-moi !
 
 <p align="left">
