@@ -1,6 +1,6 @@
 # Salut 👋, je suis Julian SEILLER
 
-### 💻 Développeur Java / Full-stack en alternance | Java, Web & Automatisation
+### 💻 Développeur Java / Full-Stack en alternance | Java, Web & Automatisation
 
 Diplômé d'un **BTS SIO (option SLAM)**, je suis actuellement en **3e année de Bachelor Concepteur Développeur d'Applications** au **CESI Grenoble**. Animé par une forte curiosité technique, j'aime concevoir des architectures robustes, automatiser des processus et explorer de nouvelles technologies.
 
@@ -32,9 +32,9 @@ Diplômé d'un **BTS SIO (option SLAM)**, je suis actuellement en **3e année de
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-* **Architecture & stockage :** MVC, pattern Repository, UML (Visual Paradigm), MinIO (stockage objet S3)
+* **Architecture & stockage :** MVC, Pattern Repository, UML (Visual Paradigm), MinIO (Stockage Objet S3)
 * **Web & interfaces :** HTML5, CSS3, Bootstrap, Tailwind CSS, JavaFX, Figma
-* **Méthodes & outils :** POO, scripts (PowerShell / Bash), Tests Unitaires, Agile / Scrum, Git / GitLab, Développement assisté par IA (LLM)
+* **Méthodes & outils :** POO, Scripts (PowerShell / Bash), Tests Unitaires, Agile / Scrum, Git / GitLab, Développement assisté par IA (LLM)
 * **Langues & savoir-être :** Français : Langue maternelle, Anglais : Professionnel (B2), Autonomie, Rigueur, Travail en équipe
 
 ---
