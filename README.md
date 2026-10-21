@@ -34,8 +34,8 @@ Diplômé d'un **BTS SIO (option SLAM)**, je suis actuellement en **3e année de
 
 * **Architecture & stockage :** MVC, pattern Repository, UML (Visual Paradigm), MinIO (stockage objet S3)
 * **Web & interfaces :** HTML5, CSS3, Bootstrap, Tailwind CSS, JavaFX, Figma
-* **Méthodes & outils :** POO, scripts (PowerShell / Bash), tests unitaires, Agile / Scrum, Git / GitLab, développement assisté par IA (LLM)
-* **Langues & savoir-être :** français (langue maternelle), anglais professionnel (B2), autonomie, rigueur, travail en équipe
+* **Méthodes & outils :** POO, scripts (PowerShell / Bash), Tests Unitaires, Agile / Scrum, Git / GitLab, Développement assisté par IA (LLM)
+* **Langues & savoir-être :** Français : Langue maternelle, Anglais : Professionnel (B2), Autonomie, Rigueur, Travail en équipe
 
 ---
 
@@ -66,8 +66,8 @@ Diplômé d'un **BTS SIO (option SLAM)**, je suis actuellement en **3e année de
 ### 📫 Me contacter
 
 <p align="left">
-  <a href="https://portfolio-julianseiller.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://julianseiller.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/julianseiller" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:julianseiller.contact@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-  <a href="https://portfolio-julianseiller.vercel.app/assets/files/CV_Julian_SEILLER.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Mon_CV-4B4B4B?style=for-the-badge" alt="CV" /></a>
+  <a href="https://julianseiller.vercel.app/assets/files/CV_Julian_SEILLER.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_Mon_CV-4B4B4B?style=for-the-badge" alt="CV" /></a>
 </p>
