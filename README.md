@@ -2,7 +2,8 @@
 
 ### 💻 Développeur Java / Full-Stack en alternance | Java, Web & Automatisation
 
-Diplômé d'un **BTS SIO (option SLAM)**, je suis actuellement en **3e année de Bachelor Concepteur Développeur d'Applications** au **CESI Grenoble**. Animé par une forte curiosité technique, j'aime concevoir des architectures robustes, automatiser des processus et explorer de nouvelles technologies.
+Diplômé d'un **BTS SIO (option SLAM)**, je suis actuellement en **3e année de Bachelor Concepteur Développeur d'Applications** au **CESI Grenoble**.
+Animé par une forte curiosité technique, j'aime concevoir des architectures robustes, automatiser des processus et explorer de nouvelles technologies.
 
 ---
 
